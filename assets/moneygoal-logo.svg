@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 56" fill="none">
+  <rect width="44" height="44" y="6" rx="12" fill="#0F172A"/>
+  <path d="M14 34L22 18L30 34" stroke="#10B981" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="22" cy="27" r="3" fill="#34D399"/>
+  <path d="M12 28H32" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="56" y="34" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">The Money<tspan fill="#10B981">Goal</tspan></text>
+</svg>
